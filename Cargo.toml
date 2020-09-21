@@ -1,0 +1,12 @@
+[package]
+name = "lukkid"
+version = "0.1.0"
+authors = ["Samiti <samiti3d@gmail.com"]
+edition = "2018"
+keywords = ["math", "sequences"]
+readme = "README.md"
+description = "lukkid is a library for Arithmetic Sequences."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
