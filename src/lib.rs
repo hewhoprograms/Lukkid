@@ -5,12 +5,14 @@
 use std::ops::AddAssign;
 use std::cmp::PartialOrd;
 
+/// Creating sequences
 pub struct Sequence<T>{
     curr: T,
     step: T,
     stop: T,
 }
 
+/// Incarnation of Sequence Struct
 pub struct Anukrom<T>{
     curr: T,
     step: T,
