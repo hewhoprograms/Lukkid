@@ -1,6 +1,6 @@
-#A library for Arithmetic Sequences.
+# A library for Arithmetic Sequences.
 
-##Example 
+## Example 
 - creating your sequence using Sequence()::new(?,?,?);
 - sum all of list using zigma(<<put Sequence() Object here>> );
 ```
